@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://tanviportfolio.github.io/mba-portfolio/skills.html</loc>
+    <lastmod>2025-11-24T00:59:15.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tanviportfolio.github.io/mba-portfolio/projects.html</loc>
+    <lastmod>2025-11-24T00:58:30.074Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tanviportfolio.github.io/mba-portfolio/contact.html</loc>
+    <lastmod>2025-11-24T00:59:56.162Z</lastmod>
+  </url>
+  <url>
     <loc>https://tanviportfolio.github.io/mba-portfolio/index.html</loc>
-    <lastmod>2025-10-27T05:51:11.064Z</lastmod>
+    <lastmod>2025-11-24T00:54:07.312Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tanviportfolio.github.io/mba-portfolio/resume.html</loc>
+    <lastmod>2025-11-24T01:06:24.678Z</lastmod>
   </url>
 </urlset>
